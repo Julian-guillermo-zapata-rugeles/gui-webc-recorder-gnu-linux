@@ -72,7 +72,7 @@ color:white;</string>
      <string notr="true">font:bold;</string>
     </property>
     <property name="text">
-     <string>10</string>
+     <string>5</string>
     </property>
    </widget>
    <widget class="QPushButton" name="shoot100">
@@ -88,7 +88,7 @@ color:white;</string>
      <string notr="true">font:bold;</string>
     </property>
     <property name="text">
-     <string>100</string>
+     <string>50</string>
     </property>
    </widget>
    <widget class="QPushButton" name="shoot50">
@@ -104,7 +104,7 @@ color:white;</string>
      <string notr="true">font:bold;</string>
     </property>
     <property name="text">
-     <string>50</string>
+     <string>10</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
@@ -186,6 +186,9 @@ color:white;</string>
     </property>
     <property name="text">
      <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
     </property>
    </widget>
   </widget>
